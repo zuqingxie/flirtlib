@@ -3,3 +3,6 @@ lib*
 build
 *.kate-swp
 external/gefp
+.vscode/
+build/
+log/
